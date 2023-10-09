@@ -1,0 +1,28 @@
+.mainDiv1 {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: White;
+  flex-direction: column;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.login-head {
+  color: grey;
+  text-align: center;
+}
+.input-ele {
+  padding: 5px;
+  border-radius: 5px;
+}
+.login-button {
+  padding: 6px;
+  margin-top: 20px;
+}

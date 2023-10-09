@@ -1,0 +1,80 @@
+button {
+  background-color: #6366f1;
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #ffffff;
+}
+.search-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mainDiv {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+.serach-icon {
+  color: #000000;
+  font-size: 30px;
+  background-color: #ffffff;
+}
+.serch-language {
+  padding: 6px;
+}
+.myCard {
+  color: white;
+  margin: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.myCard > h1 {
+  font-size: 50px;
+}
+.myCard > p {
+  font-size: 25px;
+}
+.first-dev {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+}
+.ashok {
+  overflow-y: scroll;
+  max-height: 80%;
+}
+.firstDev {
+  width: 29%;
+}
+.myListFor {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.secondDiv {
+  width: 70%;
+}
+.overManager {
+  display: flex;
+  list-style-type: none;
+
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: #000000;
+}
+.cardDec {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  color: #000000;
+  border-radius: 30px;
+  margin: 3px;
+  width: 60%;
+  padding: 10px;
+}

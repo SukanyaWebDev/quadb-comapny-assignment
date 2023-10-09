@@ -1,0 +1,28 @@
+.ashok-con {
+  /* display: flex; */
+  /* align-items: center; */
+  height: 100%;
+  width: 100%;
+  /* justify-content: center; */
+}
+.myDivForCards {
+  height: 100vh;
+  background-color: black;
+  padding: 30px;
+}
+.apply-div {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.myMainDiv {
+  background-color: #202020;
+  padding: 30px;
+  border-radius: 30px;
+  color: aliceblue;
+  max-height: 90%;
+  overflow-y: scroll;
+}
+.apply-button {
+  margin-top: 20px;
+}
